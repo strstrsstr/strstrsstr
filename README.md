@@ -13,7 +13,6 @@ KOSOVNICA:
 - Hall senzor A3144,
 - KY-040 vrtljivi enkoder,
 - 3D modelirano anemometer in kazalec smeri,
-- žičke,
 - perfBoard,
 - Baterija z USB pretvornikom (za napajanje Arduino) in
 - 3D modelirano ohišje.
